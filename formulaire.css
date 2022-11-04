@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1{
+    text-align: center;
+}
+
+body{
+    background-color: coral;
+}
+
+.formulaire{
+    margin: 5rem;
+    padding: 3rem;
+    text-align: center;
+}
+
+label, input, div{
+    padding: 1rem;
+}
+

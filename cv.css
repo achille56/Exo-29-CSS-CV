@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1 ,h2{
+    text-align: center;color: #0a0fff;text-decoration-line: underline;
+    padding: 1rem;
+}
+
+img {
+    float: right;
+    position: relative;
+    right: 8rem;
+    top: 8rem;
+}
+
+body {
+    background-color: #e2f8ff;
+}
+
+.profil, .exppro, .formation,.infop ,.devetinf {
+    border: 1px solid black;
+    border-radius: 3px;
+    background-color: #8ae9ff;
+    padding: 3rem;
+    margin: 0 auto;
+}
+
+.profil p, .formation p, .exppro p ,.infop p{
+    margin: 0.8rem;
+}
+
+.date{
+    color: crimson;
+    font-weight: bold;
+}
+
+ul{
+    padding: 1rem;
+}
+
+
+
